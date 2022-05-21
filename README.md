@@ -10,16 +10,16 @@ All scores of the EN dataset are collected according to the tags of the difficul
 2) The AMBPT dataset consists of 9 difficulty levels with a total number of 2040 music pieces.
 
 
-All the files included are as follows:
-1.'EN_old_features.mat':
-2.'EN_new_features.mat':
-3.'EN_total_features.mat':
-4.'AMBPT_old_features.mat':
-5.'AMBPT_new_features.mat':
-6.'AMBPT_total_features.mat':
-7.'feature_name_old.mat'
-8.'feature_name_new.mat'
-9.'feature_name_total.mat'
+All the data files included are as follows:
+1.'EN_old_features.mat'£»
+2.'EN_new_features.mat'£»
+3.'EN_total_features.mat'£»
+4.'AMBPT_old_features.mat'£»
+5.'AMBPT_new_features.mat'£»
+6.'AMBPT_total_features.mat'£»
+7.'feature_name_old.mat'£»
+8.'feature_name_new.mat'£»
+9.'feature_name_total.mat'£»
 
 
 
